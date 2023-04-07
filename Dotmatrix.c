@@ -1,3 +1,4 @@
-#include <MD_Parola.h>
-#include <MD_MAX72xx.h>
-#include <SPI.h>
+#include <FrequencyTimer2.h>
+
+#define E {
+    {0, 1, 1, 1, 1,
